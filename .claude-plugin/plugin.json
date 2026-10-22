@@ -1,0 +1,11 @@
+{
+  "name": "annotated-site",
+  "version": "1.0.0",
+  "description": "Scaffold a password-protected Vercel site where collaborators comment on markdown documents, and pull their comments back into the repository.",
+  "author": {
+    "name": "Byungkyu Lee"
+  },
+  "homepage": "https://github.com/letitbk/annotated-site",
+  "repository": "https://github.com/letitbk/annotated-site",
+  "license": "MIT"
+}

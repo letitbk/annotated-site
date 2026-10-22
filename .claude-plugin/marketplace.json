@@ -1,0 +1,17 @@
+{
+  "name": "annotated-site",
+  "description": "Scaffold a password-protected Vercel site where collaborators comment on markdown documents, and pull their comments back into the repository.",
+  "owner": {
+    "name": "letitbk"
+  },
+  "plugins": [
+    {
+      "name": "annotated-site",
+      "source": "./",
+      "description": "Scaffold a password-protected Vercel site where collaborators comment on markdown documents, and pull their comments back into the repository.",
+      "author": {
+        "name": "Byungkyu Lee"
+      }
+    }
+  ]
+}
